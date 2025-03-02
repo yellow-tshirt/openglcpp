@@ -3,6 +3,10 @@
 
 CMakeFiles/openglCpp.dir/main.cpp.o
  /home/mario/Desktop/openglcpp/main.cpp
+ /home/mario/Desktop/openglcpp/external/glfw/include/GLFW/glfw3.h
+ /usr/include/GL/gl.h
+ /usr/include/GL/glext.h
+ /usr/include/KHR/khrplatform.h
  /usr/include/alloca.h
  /usr/include/asm-generic/errno-base.h
  /usr/include/asm-generic/errno.h

@@ -95,6 +95,9 @@ openglCpp_EXTERNAL_OBJECTS =
 
 openglCpp: CMakeFiles/openglCpp.dir/main.cpp.o
 openglCpp: CMakeFiles/openglCpp.dir/build.make
+openglCpp: external/glfw/src/libglfw3.a
+openglCpp: /usr/lib/x86_64-linux-gnu/librt.a
+openglCpp: /usr/lib/x86_64-linux-gnu/libm.so
 openglCpp: CMakeFiles/openglCpp.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/mario/Desktop/openglcpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable openglCpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/openglCpp.dir/link.txt --verbose=$(VERBOSE)

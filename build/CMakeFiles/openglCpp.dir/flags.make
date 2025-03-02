@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/mario/Desktop/openglcpp/glfw -I/home/mario/Desktop/openglcpp/external/glfw/include
 
 CXX_FLAGS = 
 
