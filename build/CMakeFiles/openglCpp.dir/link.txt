@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/openglCpp.dir/main.cpp.o -o openglCpp

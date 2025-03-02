@@ -1,0 +1,3 @@
+/home/mario/Desktop/openglcpp/build/CMakeFiles/openglCpp.dir
+/home/mario/Desktop/openglcpp/build/CMakeFiles/edit_cache.dir
+/home/mario/Desktop/openglcpp/build/CMakeFiles/rebuild_cache.dir

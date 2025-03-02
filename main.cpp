@@ -1,7 +1,6 @@
 #include <iostream>
-#include <GLFW/glfw3.h>
 
 int main(){
-	std::cout << "==Main==" << endl;
+	std::cout << "==Main==" << std::endl;
 	return 0;
 }
